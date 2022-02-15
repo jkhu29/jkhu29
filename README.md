@@ -4,9 +4,7 @@ I'm JiaKui Hu, a student at XDU, studying Electronic Science and Technology.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jkhu29&show_icons=true&count_private=true&hide=prs&theme=vue-dark)
 
-I have another github account dedicated to my work. --> [hhhfccz](https://github.com/hhhfccz)
-
-![stats](https://github-readme-stats.vercel.app/api?username=hhhfccz&show_icons=true&count_private=true&hide=prs&theme=vue-dark)
+I have another github account dedicated to my work, like TVM, OneFlow, ... --> [hhhfccz](https://github.com/hhhfccz)
 
 [![code](https://github-readme-stats.vercel.app/api/top-langs/?username=jkhu29&hide=html&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
