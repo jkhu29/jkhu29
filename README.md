@@ -13,9 +13,9 @@ I'm JiaKui Hu, a Ph.D Student in PKU, [MILab](https://wiki.milab.wiki/).
 
 I have another account dedicated to the work of the open source community, like TVM, OneFlow, ... --> [hhhfccz](https://github.com/hhhfccz)
 
-![stats](https://github-readme-stats.vercel.app/api?username=jkhu29&show_icons=true&count_private=true&hide=prs&theme=vue-dark)
+![stats](https://github-readme-stats.vercel.app/api?username=jkhu29&show_icons=true&count_private=true&hide=prs&theme=vue-dark&include_all_commits=true)
 
-[![code](https://github-readme-stats.vercel.app/api/top-langs/?username=jkhu29&hide=html&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![code](https://github-readme-stats.vercel.app/api/top-langs/?username=jkhu29&hide=html,scss,css,javascript,c&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jkhu29/jkhu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
