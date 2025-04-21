@@ -2,13 +2,12 @@
 
 I'm JiaKui Hu, a Ph.D Student in PKU, [MILab](https://wiki.milab.wiki/).
 
-🔭 I’m currently working on 
-   - Medical Image Processing, like SIM
-   - Spike Neural Network
+🔭 I’m currently working on artificial general intelligence (AGI) on image processing, e.g.,
+   - Unifed understanding and generation Vision-Language Model
+   - Universal low-level vision
 
 🌱 I’m currently interested in
-   - Super Resolution imaging
-   - Network architecture design
+   - Super Resolution imaging (e.g., Astrophotography)
    - AI System
 
 I have another account dedicated to the work of the open source community, like TVM, OneFlow, ... --> [hhhfccz](https://github.com/hhhfccz)
